@@ -9,3 +9,5 @@ buttonn.addEventListener('click', ()=>{
         headingg.style.color="blue"
     }
 });
+
+document.querySelectorAll(.heading1)
