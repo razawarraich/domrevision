@@ -10,4 +10,7 @@ buttonn.addEventListener('click', ()=>{
     }
 });
 
-document.querySelectorAll(.heading1)
+
+
+
+
