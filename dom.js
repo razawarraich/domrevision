@@ -11,6 +11,6 @@ buttonn.addEventListener('click', ()=>{
 });
 
 
-const buttonn= document.querySelector('.button')
+
 
 
