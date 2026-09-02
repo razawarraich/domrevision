@@ -19,4 +19,11 @@ buttonn.addEventListener('click', ()=>{
     }
 });
 
-
+const buttonn= document.querySelector('.button')
+buttonn.addEventListener('click', ()=>{
+    if (headingg.style.color==="blue"){
+        headingg.style.color="red"    
+    }else{
+        headingg.style.color="blue"
+    }
+});
